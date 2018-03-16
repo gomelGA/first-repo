@@ -1,3 +1,4 @@
 Hello, github!
+"Updating with Bash..."
 "Update with Tortoise..."
 "New change"
